@@ -11,7 +11,7 @@ import { Contact } from "./components/sections/Contact";
 import { Experience } from "./components/sections/Experience";
 
 function App() {
-  const [isLoaded, setIsLoaded] = useState(true);
+  const [isLoaded, setIsLoaded] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (

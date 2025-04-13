@@ -14,7 +14,7 @@ export const Experience = () => {
             {" "}
             Work Experience
           </h2>
-          <div className="space-y-4 text-gray-300">
+          <div className="space-y-10 text-gray-300">
             <div>
               <h4 className="font-bold">
                 {" "}
@@ -42,8 +42,8 @@ export const Experience = () => {
                 HACKEREARTH - Community Lead - Remote (May 2021 - October 2021){" "}
               </h4>
               <p>
-                ◦ Testing Coding Questions: Competitive Coding questions testing for various testcases in different languages.<br/>
-                ◦ Moderating Tests: Moderating Ongoing Live Tests (inter-college and college tests).<br/>
+                ◦ Testing Coding Questions: Competitive Coding questions testing for various testcases in different languages.<br />
+                ◦ Moderating Tests: Moderating Ongoing Live Tests (inter-college and college tests).<br />
                 ◦ Framing Questions: Preparing coding problems on various topics related Data Structures and Algorithms.
               </p>
             </div>
